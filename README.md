@@ -7,3 +7,4 @@
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
 The ‘X’ represents an alive cell and the ‘ ’ represents a dead cell. 
+Prepared 5 test files with initial states for quick launch and initialization through input redirection.
